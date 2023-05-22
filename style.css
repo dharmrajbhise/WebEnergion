@@ -166,13 +166,12 @@ body {
 }
 #slider{
     align-self: center;
-    height: 500px;
-    width: 750px;
+    height: 600px;
+    width: 100%;
 }
 .d-block{
-    height: 500px; 
-    width: 750px;/* Ensures the image fills the carousel container */
-    object-fit: cover;
+    height: 600px; 
+    width: 100%;/* Ensures the image fills the carousel container */
 }
 .hero{
     background-image: url(web\ development.jpg);
