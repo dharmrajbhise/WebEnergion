@@ -176,3 +176,111 @@ body {
 .hero{
     background-image: url(web\ development.jpg);
 }
+
+/* FAQ Section */
+#faq {
+    padding: 80px 0;
+  }
+  
+  #faq h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 40px;
+  }
+  
+  .faq-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .question h3 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+  }
+
+  /* About Us Section */
+#about {
+    padding: 80px 0;
+  }
+  
+  #about h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 40px;
+  }
+  
+  .about-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .team-member {
+    text-align: center;
+    margin: 0 20px;
+    max-width: 300px;
+  }
+  
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .team-member h3 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+  }
+  
+  .team-member p {
+    font-size: 1rem;
+    color: #777;
+  }
+
+  /* CTA Section */
+#cta {
+    padding: 80px 0;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  #cta h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  #cta p {
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+  }
+
+  /* Footer */
+footer {
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  footer nav {
+    margin-bottom: 10px;
+  }
+  
+  footer nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  footer p {
+    margin-bottom: 10px;
+  }
+  
+  .social-media a {
+    margin-right: 10px;
+  }
