@@ -143,16 +143,6 @@ body {
     margin-bottom: 10px;
 }
 
-/* Footer Styles */
-.footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
-}
-
-.footer p {
-    margin: 0;
-}
 
 /* Media Queries */
 @media (max-width: 767.98px) {
@@ -164,6 +154,7 @@ body {
         font-size: 16px;
     }
 }
+
 #slider{
     align-self: center;
     height: 600px;
@@ -259,7 +250,7 @@ body {
     margin-bottom: 40px;
   }
 
-  /* Footer */
+
 footer {
     padding: 20px 0;
     background-color: #333;
