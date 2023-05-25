@@ -18,6 +18,9 @@ body {
 .navbar {
     background-color: #fff;
     border-bottom: 1px solid #ddd;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
 }
 
 .navbar-brand {
